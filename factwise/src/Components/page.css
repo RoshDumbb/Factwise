@@ -1,0 +1,12 @@
+*{
+    background-color: white;
+}
+.main > p{
+ font-size: 40px;
+ font-weight: 500;
+}
+.innerdiv > p{
+    font-size: 30px;
+    font-weight: 440;
+    margin-left: 10px;
+}
